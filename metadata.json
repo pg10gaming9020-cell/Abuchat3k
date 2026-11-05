@@ -1,0 +1,8 @@
+{
+  "name": "AbuChat - Voice Chat & Party Rooms",
+  "description": "AbuChat voice chat rooms, live party audio streaming, VIP perks, diamond wallet, gifts, and Android Play Store download.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
